@@ -31,7 +31,7 @@ namespace LabNumber1
                         area = l * w;
                         perimeter = (2 * l) + (2 * w);
 
-                        Console.WriteLine("The area is" + " " + area);
+                        Console.WriteLine("The area is" + " " + area);      // this is where all the magic happens
                         Console.WriteLine("The perimeter is" + " " + perimeter );
 
                         Console.WriteLine("\n" + "Do you want to continute Y or N ????");
