@@ -10,7 +10,8 @@ namespace LabNumber1
     {
         static void Main(string[] args)
         {
-            
+            //intialize those varibales, all of them
+
             double l, w = 0;
             double area, perimeter;
             string answer;
