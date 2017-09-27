@@ -1,0 +1,6 @@
+C:\Users\ernes\source\repos\LabNumber1\LabNumber1\bin\Debug\LabNumber1.exe.config
+C:\Users\ernes\source\repos\LabNumber1\LabNumber1\bin\Debug\LabNumber1.exe
+C:\Users\ernes\source\repos\LabNumber1\LabNumber1\bin\Debug\LabNumber1.pdb
+C:\Users\ernes\source\repos\LabNumber1\LabNumber1\obj\Debug\LabNumber1.csproj.CoreCompileInputs.cache
+C:\Users\ernes\source\repos\LabNumber1\LabNumber1\obj\Debug\LabNumber1.exe
+C:\Users\ernes\source\repos\LabNumber1\LabNumber1\obj\Debug\LabNumber1.pdb
